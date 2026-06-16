@@ -1,4 +1,4 @@
-﻿const navToggle = document.querySelector(".menu-toggle");
+const navToggle = document.querySelector(".menu-toggle");
 const navMenu = document.querySelector(".nav-menu");
 const slides = Array.from(document.querySelectorAll(".slide"));
 const dots = Array.from(document.querySelectorAll(".dot"));
